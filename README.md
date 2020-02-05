@@ -1,2 +1,2 @@
 # TT7N-Tracker
-Eagle files and firmware for TT7N superpressure balloon tracker. 
+This is the main repository for TT7N, a two band superpressure balloon tracker. It includes the board and schematic design files for Eagle.
