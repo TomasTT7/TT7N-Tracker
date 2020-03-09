@@ -1684,16 +1684,16 @@ In this library the device names are the same as the pin names of the symbols, t
 <part name="SUPPLY3" library="supply2" deviceset="GND" device=""/>
 <part name="U1" library="TT7" deviceset="SPV1040" device=""/>
 <part name="L1" library="TT7" deviceset="IND0402" device="" value=""/>
-<part name="L2" library="TT7" deviceset="IND0402" device="" value="53n"/>
+<part name="L2" library="TT7" deviceset="IND0402" device="" value="53nH"/>
 <part name="C1" library="TT7" deviceset="CAP0402" device="" value=""/>
 <part name="C2" library="TT7" deviceset="CAP0402" device="" value=""/>
-<part name="C3" library="TT7" deviceset="CAP0402" device="" value="18p"/>
-<part name="C4" library="TT7" deviceset="CAP0402" device="" value="18p"/>
+<part name="C3" library="TT7" deviceset="CAP0402" device="" value="18pF"/>
+<part name="C4" library="TT7" deviceset="CAP0402" device="" value="18pF"/>
 <part name="R1" library="TT7" deviceset="RES0402" device="" value="1M"/>
 <part name="R2" library="TT7" deviceset="RES0402" device="" value="1M"/>
-<part name="L3" library="TT7" deviceset="IND0402" device="" value="560n"/>
-<part name="C5" library="TT7" deviceset="CAP0402" device="" value="180p"/>
-<part name="C6" library="TT7" deviceset="CAP0402" device="" value="180p"/>
+<part name="L3" library="TT7" deviceset="IND0402" device="" value="560nH"/>
+<part name="C5" library="TT7" deviceset="CAP0402" device="" value="180pF"/>
+<part name="C6" library="TT7" deviceset="CAP0402" device="" value="180pF"/>
 <part name="LED1" library="TT7" deviceset="LED0603" device=""/>
 <part name="R5" library="TT7" deviceset="RES0402" device="" value="190R"/>
 <part name="SUPPLY4" library="supply2" deviceset="GND" device=""/>
@@ -1708,14 +1708,14 @@ In this library the device names are the same as the pin names of the symbols, t
 <part name="C13" library="TT7" deviceset="CAP0402" device="" value="1uF"/>
 <part name="SUPPLY5" library="supply2" deviceset="GND" device=""/>
 <part name="R9" library="TT7" deviceset="RES0402" device="" value="1k"/>
-<part name="C14" library="TT7" deviceset="CAP0402" device="" value="100n"/>
-<part name="C15" library="TT7" deviceset="CAP0402" device="" value="100n"/>
+<part name="C14" library="TT7" deviceset="CAP0402" device="" value="100nF"/>
+<part name="C15" library="TT7" deviceset="CAP0402" device="" value="100nF"/>
 <part name="SUPPLY6" library="supply2" deviceset="GND" device=""/>
 <part name="SUPPLY7" library="supply2" deviceset="GND" device=""/>
 <part name="SUPPLY8" library="supply2" deviceset="GND" device=""/>
 <part name="SUPPLY9" library="supply2" deviceset="GND" device=""/>
 <part name="TCXO1" library="TT7" deviceset="TG2016SBN" device=""/>
-<part name="C16" library="TT7" deviceset="CAP0402" device="" value="100n"/>
+<part name="C16" library="TT7" deviceset="CAP0402" device="" value="100nF"/>
 <part name="SUPPLY10" library="supply2" deviceset="GND" device=""/>
 <part name="SUPPLY11" library="supply2" deviceset="GND" device=""/>
 <part name="U7" library="TT7" deviceset="CM8V-T1A" device=""/>
@@ -1734,9 +1734,9 @@ In this library the device names are the same as the pin names of the symbols, t
 <part name="SUPPLY18" library="supply2" deviceset="GND" device=""/>
 <part name="SUPPLY19" library="supply2" deviceset="GND" device=""/>
 <part name="SUPPLY20" library="supply2" deviceset="GND" device=""/>
-<part name="C22" library="TT7" deviceset="CAP0402" device="" value="10n"/>
-<part name="C23" library="TT7" deviceset="CAP0402" device="" value="2.2n"/>
-<part name="C24" library="TT7" deviceset="CAP0402" device="" value="100n"/>
+<part name="C22" library="TT7" deviceset="CAP0402" device="" value="10nF"/>
+<part name="C23" library="TT7" deviceset="CAP0402" device="" value="2.2nF"/>
+<part name="C24" library="TT7" deviceset="CAP0402" device="" value="100nF"/>
 <part name="SUPPLY21" library="supply2" deviceset="GND" device=""/>
 <part name="SUPPLY22" library="supply2" deviceset="GND" device=""/>
 <part name="SUPPLY23" library="supply2" deviceset="GND" device=""/>
